@@ -2,7 +2,7 @@
 
 ### 🛠 Technical Stack
 - Java SE 11, Java EE 8
-- Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+- Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Security...
 - Apache ActiveMQ, Tomcat Server, Camel, Kafka
 - HTTP, HTML, Rest
 - Heroku
