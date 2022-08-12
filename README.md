@@ -25,7 +25,7 @@ vladislav_buko@mail.ru
 LinkedIn
 https://www.linkedin.com/in/vladislav-buko4444/
 
-https://komarev.com/ghpvc/?username=Vlad-Buko
+<h3>https://komarev.com/ghpvc/?username=Vlad-Buko</h3>
 
 
 <!--
