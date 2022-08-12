@@ -25,7 +25,9 @@ vladislav_buko@mail.ru
 LinkedIn
 https://www.linkedin.com/in/vladislav-buko4444/
 
-<h3>https://komarev.com/ghpvc/?username=Vlad-Buko</h3>
+![](https://komarev.com/ghpvc/?username=Vlad-Buko)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vlad-Buko)](https://github.com/Vlad-Buko/github-readme-activity-graph)
 
 
 <!--
