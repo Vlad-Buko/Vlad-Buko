@@ -9,6 +9,8 @@
 - HTTP, HTML, Rest
 - Heroku
 - Liquibase 
+- Docker
+- Postman
 - GitHub
 
 ### My opensource projects
