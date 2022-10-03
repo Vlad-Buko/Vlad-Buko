@@ -25,7 +25,7 @@ https://github.com/Vlad-Buko/application-for-andersen
 
 
 <p align='center'>  
-  <a href="https://t.me/@vlad-buko" target="_blank">
+  <a href="https://t.me/vlad-buko" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />   
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vladislav-buko4444/" target="_blank">
