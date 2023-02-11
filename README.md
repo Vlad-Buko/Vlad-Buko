@@ -15,7 +15,7 @@
 
 ### My opensource projects
 
-Telegram Bot "Assistant Accountant"
+REST API, import from old system
 https://github.com/Vlad-Buko/telegram-proj-21
 
 Project Andersen 
