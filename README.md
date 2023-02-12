@@ -16,7 +16,7 @@
 ### My opensource projects
 
 REST API, import from old system
-https://github.com/Vlad-Buko/telegram-proj-21
+https://github.com/Vlad-Buko/api-import-from-old-system-cleverdev
 
 Project Andersen 
 https://github.com/Vlad-Buko/application-for-andersen
