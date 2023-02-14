@@ -39,8 +39,6 @@ vladislav_buko@mail.ru
 
 ![](https://komarev.com/ghpvc/?username=Vlad-Buko)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vlad-Buko)](https://github.com/Vlad-Buko/github-readme-activity-graph)
-
 
 <!--
 **Vlad-Buko/Vlad-Buko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
