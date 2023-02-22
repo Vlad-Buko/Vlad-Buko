@@ -9,7 +9,6 @@
 - HTTP, HTML, Rest
 - Heroku
 - Liquibase 
-- Docker
 - Postman
 - GitHub
 
