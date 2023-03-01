@@ -4,7 +4,7 @@
 
 ### 🛠 Technical Stack
 - Java SE 11
-- Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Security...
+- Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Security...
 - Apache ActiveMQ, Tomcat Server, Camel, Kafka
 - HTTP, HTML, Rest
 - Heroku
