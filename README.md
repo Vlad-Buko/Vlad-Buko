@@ -6,7 +6,8 @@
 - Java SE 11, 13, 17
 - Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Security...
 - Apache ActiveMQ, Tomcat Server, Camel, Kafka
-- HTTP, HTML, Rest
+- HTTP, HTML
+
 - Heroku
 - Liquibase 
 - Postman
