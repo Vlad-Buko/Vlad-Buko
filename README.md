@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vladislav
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java Developer, from Belarus</h3>
+<h3 align="center">Java Developer</h3>
 
 ### 🛠 Technical Stack
 - Java SE 8, 11, 13, 17
