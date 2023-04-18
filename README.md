@@ -3,7 +3,7 @@
 <h3 align="center">Java Developer</h3>
 
 ### 🛠 Technical Stack
-- Java SE 8, 11, 13, 17
+- Java SE 8, 11, 13
 - Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Security...
 - Apache ActiveMQ, Tomcat Server, Camel, Kafka
 - HTTP, HTML
